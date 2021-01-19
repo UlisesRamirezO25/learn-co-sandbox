@@ -1,1 +1,4 @@
 function doNothing ()
+function sayhello () {
+  console.log ('Hello!')
+  }
