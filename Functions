@@ -1,4 +1,5 @@
 function doNothing ()
-function sayhello () {
-  console.log ('Hello!')
-  }
+function sayHello() {
+  console.log('Hello!')
+}
+
